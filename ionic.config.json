@@ -1,0 +1,7 @@
+{
+  "name": "inhomeapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
